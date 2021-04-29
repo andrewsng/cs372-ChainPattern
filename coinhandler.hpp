@@ -23,5 +23,11 @@ private:
 };
 
 
+std::shared_ptr<CoinHandler> makePennyHandler();
+std::shared_ptr<CoinHandler> makeNickelHandler();
+std::shared_ptr<CoinHandler> makeDimeHandler();
+std::shared_ptr<CoinHandler> makeQuarterHandler();
+
+
 #endif  // COINHANDLER_HPP
 
