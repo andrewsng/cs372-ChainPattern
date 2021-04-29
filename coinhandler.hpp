@@ -1,6 +1,7 @@
 #ifndef COINHANDLER_HPP
 #define COINHANDLER_HPP
 
+#include "coin.hpp"
 #include <memory>
 
 
