@@ -10,6 +10,8 @@ class CoinHandler
 
 public:
 
+    virtual ~CoinHandler() = default;
+
     void setNext(std::shared_ptr<CoinHandler> handler);
     void handle(const Coin &coin) const;
 

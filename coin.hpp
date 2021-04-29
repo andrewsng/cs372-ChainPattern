@@ -9,6 +9,8 @@ class Coin
 
 public:
 
+    virtual ~Coin() = default;
+
     int getValue() const;
 
 private:
