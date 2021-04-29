@@ -1,3 +1,11 @@
+// coin.hpp
+// Andrew S. Ng
+// 2021-04-29
+//
+// For CS 372 Spring 2021
+// Header for Coin abstract class
+
+
 #ifndef COIN_HPP
 #define COIN_HPP
 

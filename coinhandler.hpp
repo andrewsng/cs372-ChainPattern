@@ -1,3 +1,12 @@
+// coinhandler.hpp
+// Andrew S. Ng
+// 2021-04-29
+//
+// For CS 372 Spring 2021
+// Header for CoinHandler
+// abstract class
+
+
 #ifndef COINHANDLER_HPP
 #define COINHANDLER_HPP
 
@@ -30,4 +39,3 @@ std::shared_ptr<CoinHandler> makeQuarterHandler();
 
 
 #endif  // COINHANDLER_HPP
-

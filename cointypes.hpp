@@ -1,3 +1,11 @@
+// cointypes.hpp
+// Andrew S. Ng
+// 2021-04-29
+//
+// For CS 372 Spring 2021
+// Header for Coin concrete subclasses
+
+
 #ifndef COINTYPES_HPP
 #define COINTYPES_HPP
 
@@ -53,4 +61,3 @@ private:
 
 
 #endif  // COINTYPES_HPP
-

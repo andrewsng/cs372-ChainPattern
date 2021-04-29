@@ -1,3 +1,12 @@
+// coinhandler.cpp
+// Andrew S. Ng
+// 2021-04-29
+//
+// For CS 372 Spring 2021
+// Source for CoinHandler
+// abstract class
+
+
 #include "coinhandler.hpp"
 #include "cointypehandlers.hpp"
 

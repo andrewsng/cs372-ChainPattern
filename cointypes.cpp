@@ -1,3 +1,11 @@
+// cointypes.cpp
+// Andrew S. Ng
+// 2021-04-29
+//
+// For CS 372 Spring 2021
+// Source for Coin concrete subclasses
+
+
 #include "cointypes.hpp"
 
 
@@ -20,4 +28,3 @@ int Quarter::getCoinValue() const
 {
     return 25;
 }
-

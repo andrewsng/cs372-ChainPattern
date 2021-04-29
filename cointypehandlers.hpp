@@ -1,3 +1,11 @@
+// cointypehandlers.hpp
+// Andrew S. Ng
+// 2021-04-29
+//
+// For CS 372 Spring 2021
+// Header for CoinBaseHandler subclasses
+
+
 #ifndef COINTYPEHANDLERS_HPP
 #define COINTYPEHANDLERS_HPP
 

@@ -1,3 +1,12 @@
+// main.cpp
+// Andrew S. Ng
+// 2021-04-29
+//
+// For CS 372 Spring 2021
+// Main for Coin handling
+// Chain of Responsibility example
+
+
 #include "coinhandler.hpp"
 #include <iostream>
 

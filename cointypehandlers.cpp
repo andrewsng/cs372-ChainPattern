@@ -1,3 +1,11 @@
+// cointypehandlers.cpp
+// Andrew S. Ng
+// 2021-04-29
+//
+// For CS 372 Spring 2021
+// Source for CoinBaseHandler subclasses
+
+
 #include "cointypehandlers.hpp"
 #include <iostream>
 

@@ -1,3 +1,11 @@
+// coin.cpp
+// Andrew S. Ng
+// 2021-04-29
+//
+// For CS 372 Spring 2021
+// Source for Coin abstract class
+
+
 #include "coin.hpp"
 #include "cointypes.hpp"
 
@@ -26,4 +34,3 @@ std::shared_ptr<Coin> makeQuarter()
 {
     return std::make_shared<Quarter>();
 }
-
